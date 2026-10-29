@@ -1,0 +1,10 @@
+{
+  "ios": {
+    "releases": ["1.0.4"],
+    "required": false
+  },
+  "android": {
+    "releases": ["1.0.4"],
+    "required": false
+  }
+}
