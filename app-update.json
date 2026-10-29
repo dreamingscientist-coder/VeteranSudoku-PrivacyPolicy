@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "ios": {
+    "enabled": false,
+    "storeAvailable": false,
+    "latestVersion": "1.0.4",
+    "minimumSupportedVersion": "1.0.4",
+    "mode": "optional",
+    "publishedReleases": [
+      "1.0.4"
+    ],
+    "expiresAt": "2027-01-01T00:00:00Z",
+    "storeUrl": "https://apps.apple.com/app/id6810230409",
+    "messages": {
+      "en": ""
+    }
+  },
+  "android": {
+    "enabled": false,
+    "storeAvailable": false,
+    "latestVersion": "1.0.4",
+    "minimumSupportedVersion": "1.0.4",
+    "mode": "optional",
+    "publishedReleases": [
+      "1.0.4"
+    ],
+    "expiresAt": "2027-01-01T00:00:00Z",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.dreamingscientist.veteran_sudoku",
+    "messages": {
+      "en": ""
+    }
+  }
+}
